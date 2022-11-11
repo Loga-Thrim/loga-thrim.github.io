@@ -42,7 +42,7 @@
 }
 
 .bg-section-2 #img-section-2 {
-    position: fixed;
+    position: absolute;
     display: none;
 }
 
